@@ -1,0 +1,2 @@
+RCNN_activate = False
+CUT = 65
